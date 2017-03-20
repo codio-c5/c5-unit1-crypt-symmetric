@@ -3,7 +3,13 @@
   {
    "id": "a1bd5c06-dff2-3d9e-c49f-8b53b1f55563",
    "title": "Welcome",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Welcome-a1bd.md",
@@ -311,8 +317,16 @@
   {
    "id": "f74b0abf-dcd4-53c7-04ab-c7b57db6d811",
    "title": "Hands On Symmetric Encryption",
-   "files": [],
-   "path": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "2-panels-tree",
+   "path": [
+    "aes"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Hands-On-Symmetric-Encryption-f74b.md",
    "chapter": false,
