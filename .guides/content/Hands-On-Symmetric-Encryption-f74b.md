@@ -2,12 +2,12 @@ You can now try out some encryption yourself. This time you are going to open up
 
 On the left hand side is a terminal window. We have written a program in the Python language to handle this. 
 
-Press the button below to clean up the folder with the various files. You can press this button each time you want to experiment again.
+Press the button below to clean up the folder with the various files each time you want to experiment again.
 
 {Clean Up}(rm aes/deciphered.txt aes/cipher.txt)
 
 ## Edit your plain text
-The first thing to do is to type some plain text into a file. Click on `plaintext.txt` in the file tree to open it up.
+The first thing to do is to type some plain text into a file. Click on `aes` folder and then on `plaintext.txt` in the file tree to open it up.
 
 ## Encrypt
 Press the button below to encrypt the file `plaintext.txt`. You will be prompted to enter a password. Enter something short and simple.
