@@ -8,7 +8,7 @@ Press the button below to clean up the folder with the various files each time y
 
 ## Edit your plain text
 
-The first thing to do is to type some plain text into a file. Click on `aes` folder and then on `plaintext.txt` in the file tree to open it up.
+The first thing to do is to type some plain text into a file. Click on `aes` folder and then on `plain.txt` in the file tree to open it up.
 
 
 ## Encrypt
